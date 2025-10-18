@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👨‍🎓 I am a Computer Engineering student at Karadeniz Technical University (4th year)
 - 💻 I’m interested in **Object-Oriented Programming (OOP) and Software Development**
-- 📱 I’m currently learning **Android Development**
+- 📱 I’m currently learning **Formation control and trajectory planning in UAV swarms**
 - 🎯 I’m currently looking for a **60-day internship** as part of my Computer Engineering education at Karadeniz Technical University.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatih-küçükbıyık) | [MyMail](mailto:me.kucukbiyikfatih51@gmail.com)
 - ⚡ Fun fact: Kickboxing, chess, and experimenting in the kitchen 🥊♟🍳
